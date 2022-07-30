@@ -9,7 +9,7 @@ Module.register("MMM-DWD-Pollen", {
     fadeSpeed: 2000,
     DWD_region: 92,
     icon: false,
-    pollenList: this.availablePollenType,
+    pollenList: "Hasel,Erle,Esche,Birke,Graeser,Roggen,Beifuss,Ambrosia",
     showNullValue: false
   },
 
